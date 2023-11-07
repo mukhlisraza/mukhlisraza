@@ -19,7 +19,7 @@
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mukhlis-raza/)
 - 📧 Email: [mukhlis.raza1998@gmail.com](mailto:mukhlis.raza1998@gmail.com)
-
+<!--
 ## My GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
@@ -27,7 +27,7 @@
 ## My Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
-
+-->
 ## Let's Connect
 
 Feel free to reach out if you share my interests or have any questions. Let's connect and learn together!
