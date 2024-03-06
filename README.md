@@ -3,14 +3,15 @@
 ## About Me
 
 - 🎓 I have a Bachelor of Science in Software Engineering.
-- 👨‍💻 Currently, I work as a Laravel developer at [Dcodax Technologies] (https://www.dcodax.com/).
-- ⏳ I have more than two years of experience in web development with expertise in technologies like PHP, Laravel, Python, Flask, and more.
+- 👨‍💻 Currently, I work as a Research Assistant (RA) in AISSLab at Sejong University, Seoul, South Korea.
+- ⏳ I have more than two plus years of experience in web development with expertise in technologies like PHP, Laravel, Python, Flask, and more.
 
 ## My Interests
 
 - 💡 My research interests span a wide range of topics, including:
   - Machine Learning 🤖
   - Artificial Intelligence 🧠
+  - Explainable AI 🧠
   - User Experience Design 🎨
   - Quantum Computing 🌌
   - and more...
